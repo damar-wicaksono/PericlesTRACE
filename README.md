@@ -1,4 +1,4 @@
-PericleTRACE
-============
+Pericles TRACE
+==============
 
-My Pericles TRACE Model Repository
+My PERICLES SET Facility TRACE Model Repository

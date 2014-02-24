@@ -1,0 +1,474 @@
+ number of title cards is: 1
+ PERICLES                                                                        
+
+ graphics data is defined in si units     
+
+ graphics data is output in single precision format
+
+ input data is defined in si units     
+
+ output data is defined in si units     
+ 
+ eCRPLimit =     1.7000E+01(%)
+ fOxLayer = 0
+ dOxLayer =     0.0000E+00
+ Default for iSolve is iSolveDef = 0 which is finite volume conduction solve.
+ gridTypes = 1
+ No additive losses adjusted in this model : nAdjLosses = 0
+ 
+ *************************************************************
+ *************************************************************
+ *************************************************************
+ ***                                                       ***
+ ***  h2o   properties are available for this calculation. ***
+ ***                                                       ***
+ *************************************************************
+ *************************************************************
+ *************************************************************
+ 
+ *GetSteamTables* Will use default built-in IAPWS steam table data
+ *GetSteamTables* Loading built-in IAPWS steam table data.
+ Default steam tables with the following header will be used:
+ tpfh2ogibb version 1.0, tables of thermodynamic properties of light wate        
+ generated on 28-Nov-07 at 11:17:19 by stgh2onew  1.0 (1/Mar/01)                 
+
+ Maximum allowed component number for CSS input is maxNum - 1 = 999
+
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS num = 0 fine mesh is turned off and nzmax = 322 will be reset to 65
+
+ nzmax =  192, nzhtstr =   64, and for i=1 to nzhtstr, nfax(i) =
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *Input Error* For num =        0 nzmax will be set to      320
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS num = 0 fine mesh is turned off and nzmax = 322 will be reset to 65
+
+ nzmax =  192, nzhtstr =   64, and for i=1 to nzhtstr, nfax(i) =
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *Input Error* For num =        0 nzmax will be set to      320
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS num = 0 fine mesh is turned off and nzmax = 322 will be reset to 65
+
+ nzmax =  192, nzhtstr =   64, and for i=1 to nzhtstr, nfax(i) =
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *Input Error* For num =        0 nzmax will be set to      320
+ 
+ The total number of components   =     25
+ The total number of PIPEs        =      6
+ The total number of HTSTRs       =      9
+ The total number of POWERs       =      3
+ The total number of FLPOWERs     =      0
+ The total number of RADENCs      =      0
+ The total number of VALVEs       =      0
+ The total number of CHANs        =      0
+ The total number of PUMPs        =      0
+ The total number of BREAKs       =      3
+ The total number of TEEs         =      0
+ The total number of HEATRs       =      0
+ The total number of PRIZERs      =      0
+ The total number of SEPDs        =      0
+ The total number of JETPs        =      0
+ The total number of FILLs        =      3
+ The total number of TURBs        =      0
+ The total number of PLENUMs      =      0
+ The total number of VESSELs      =      1
+ The total number of CONTANs      =      0
+ The total number of EXTERs       =      0
+ 
+ The number of spawned components =      0
+ The number of spawned PIPEs      =      0
+ The number of spawned HTSTRs     =      0
+ The number of spawned POWERs     =      0
+ The number of spawned RADENCs    =      0
+ 
+   index     num    type  num-Parent    type-Parent  #-Children
+       1      30    pipe    
+       2      31    pipe    
+       3      32    pipe    
+       4      40    pipe    
+       5      41    pipe    
+       6      42    pipe    
+       7      20    fill    
+       8      21    fill    
+       9      22    fill    
+      10      50    break   
+      11      51    break   
+      12      52    break   
+      13      10    vessel  
+      14     201    htstr   
+      15     202    htstr   
+      16     203    htstr   
+      17     301    htstr   
+      18     302    htstr   
+      19     303    htstr   
+      20     401    htstr   
+      21     402    htstr   
+      22     403    htstr   
+      23      60    power   
+      24      61    power   
+      25      62    power   
+ 
+
+ ***** the initial fill-component flow  1.00000E-06
+       is not equal to the fill-table interpolated value  1.00000E-01 at 0.0 *****
+ 
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *rfill* inconsistent init and table flow
+
+ ***** the initial fill-component flow  1.00000E-06
+       is not equal to the fill-table interpolated value  1.00000E-01 at 0.0 *****
+ 
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *rfill* inconsistent init and table flow
+
+ ***** the initial fill-component flow  1.00000E-06
+       is not equal to the fill-table interpolated value  1.00000E-01 at 0.0 *****
+ 
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *rfill* inconsistent init and table flow
+For HTSTR = 201 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 201 Conduction solution is second order finite element.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS num = 201 fine mesh is turned off and nzmax = 322 will be reset to 65
+
+ nzmax =  192, nzhtstr =   64, and for i=1 to nzhtstr, nfax(i) =
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *Input Error* For num =      201 nzmax will be set to      320
+For HTSTR = 202 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 202 Conduction solution is second order finite element.
+For HTSTR = 203 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 203 Conduction solution is second order finite element.
+For HTSTR = 301 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 301 Conduction solution is second order finite element.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS num = 301 fine mesh is turned off and nzmax = 322 will be reset to 65
+
+ nzmax =  192, nzhtstr =   64, and for i=1 to nzhtstr, nfax(i) =
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *Input Error* For num =      301 nzmax will be set to      320
+For HTSTR = 302 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 302 Conduction solution is second order finite element.
+For HTSTR = 303 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 303 Conduction solution is second order finite element.
+For HTSTR = 401 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 401 Conduction solution is second order finite element.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS num = 401 fine mesh is turned off and nzmax = 322 will be reset to 65
+
+ nzmax =  192, nzhtstr =   64, and for i=1 to nzhtstr, nfax(i) =
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5    5    5    5    5    5    5
+                                5    5    5    5
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ *Input Error* For num =      401 nzmax will be set to      320
+For HTSTR = 402 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 402 Conduction solution is second order finite element.
+For HTSTR = 403 ICHF = 1 boiling curve with AECL-IPPE CHF Table for CHF.
+
+
+          *****************
+          **   warning   **
+          *****************
+
+ For HS = 403 Conduction solution is second order finite element.
+ ===>  SETS numerical Method is being used <===
+
+ system components          30        31        32        40        41        42        20        21        22        50
+                            51        52        10       201       202       203       301       302       303       401
+                           402       403        60        61        62
+ For HS =      201 total HS volume =     3.1174E-02 ( m3 )
+ total inner area =     0.0000E+00 ( m2 ) total outer area =     1.3193E+01 ( m2 )
+ For HS =      202 total HS volume =     2.8951E-03 ( m3 )
+ total inner area =     0.0000E+00 ( m2 ) total outer area =     1.2252E+00 ( m2 )
+ For HS =      203 total HS volume =     1.5533E-02 ( m3 )
+ total inner area =     2.2190E+00 ( m2 ) total outer area =     2.2190E+00 ( m2 )
+ For HS =      301 total HS volume =     3.1174E-02 ( m3 )
+ total inner area =     0.0000E+00 ( m2 ) total outer area =     1.3193E+01 ( m2 )
+ For HS =      302 total HS volume =     2.8951E-03 ( m3 )
+ total inner area =     0.0000E+00 ( m2 ) total outer area =     1.2252E+00 ( m2 )
+ For HS =      303 total HS volume =     1.2373E-02 ( m3 )
+ total inner area =     1.7676E+00 ( m2 ) total outer area =     1.7676E+00 ( m2 )
+ For HS =      401 total HS volume =     3.1174E-02 ( m3 )
+ total inner area =     0.0000E+00 ( m2 ) total outer area =     1.3193E+01 ( m2 )
+ For HS =      402 total HS volume =     2.8951E-03 ( m3 )
+ total inner area =     0.0000E+00 ( m2 ) total outer area =     1.2252E+00 ( m2 )
+ For HS =      403 total HS volume =     1.5533E-02 ( m3 )
+ total inner area =     2.2190E+00 ( m2 ) total outer area =     2.2190E+00 ( m2 )
+
+ restart dump generated at problem time     0.000000 s after       0 time steps
+
+                          time domain data to be used
+      minimum   maximum    time      long    graphics    dump      short
+       time      time     domain     edit      edit      edit      edit
+     step (s)  step (s)   end (s)  step (s)  step (s)  step (s)  step (s)
+     1.000E-20 1.000E+00 8.850E+01 1.000E+02 5.000E-01 1.000E+02 1.000E+00
+ convective energy-error controller is  1.0000E+20   w   
+
+ time-step    problem    time-step   outer-it.    cpu
+   number     time (s)    size (s)    number    time (s)
+    883       1.026080    0.048861       1      9.322
+    897       2.031568    0.096741       1      9.469
+    906       3.151628    0.150078       1      9.568
+    912       4.223483    0.201118       1      9.640
+    917       5.390353    0.256683       1      9.699
+    921       6.552008    0.312000       2      9.753
+    924       7.584769    0.361179       2      9.792
+    927       8.780318    0.418110       2      9.836
+    930      10.164315    0.484015       2      9.874
+    932      11.206158    0.533627       2      9.906
+    934      12.354789    0.588323       2      9.938
+    936      13.621155    0.648626       2      9.970
+    938      15.017323    0.715111       2     10.002
+    940      16.556599    0.788409       2     10.034
+    942      18.253650    0.869221       2     10.068
+    944      20.124649    0.958317       2     10.100
+    945      21.124649    1.000000       2     10.116
+    946      22.124649    1.000000       2     10.132
+    947      23.124649    1.000000       2     10.148
+    948      24.124649    1.000000       2     10.164
+    949      25.124649    1.000000       2     10.180
+    950      26.124649    1.000000       2     10.196
+    951      27.124649    1.000000       2     10.212
+    952      28.124649    1.000000       2     10.228
+    953      29.124649    1.000000       2     10.245
+    954      30.124649    1.000000       2     10.261
+    955      31.124649    1.000000       2     10.277
+    956      32.124649    1.000000       2     10.293
+    957      33.124649    1.000000       2     10.309
+    958      34.124649    1.000000       2     10.325
+    959      35.124649    1.000000       2     10.341
+    960      36.124649    1.000000       2     10.357
+    961      37.124649    1.000000       2     10.373
+    962      38.124649    1.000000       2     10.389
+    963      39.124649    1.000000       2     10.404
+    964      40.124649    1.000000       2     10.420
+    965      41.124649    1.000000       2     10.436
+    966      42.124649    1.000000       2     10.452
+    967      43.124649    1.000000       2     10.468
+    968      44.124649    1.000000       2     10.484
+    969      45.124649    1.000000       2     10.500
+    970      46.124649    1.000000       2     10.516
+    971      47.124649    1.000000       2     10.532
+    972      48.124649    1.000000       2     10.548
+    973      49.124649    1.000000       2     10.564
+    974      50.124649    1.000000       2     10.580
+    975      51.124649    1.000000       2     10.596
+    976      52.124649    1.000000       2     10.612
+    977      53.124649    1.000000       2     10.628
+    978      54.124649    1.000000       2     10.645
+    979      55.124649    1.000000       2     10.661
+    980      56.124649    1.000000       2     10.677
+    981      57.124649    1.000000       2     10.693
+    982      58.124649    1.000000       2     10.709
+    983      59.124649    1.000000       2     10.725
+    984      60.124649    1.000000       2     10.741
+    985      61.124649    1.000000       3     10.759
+    986      62.124649    1.000000       2     10.775
+    987      63.124649    1.000000       2     10.791
+    988      64.124649    1.000000       3     10.808
+    990      66.015079    0.968269       3     10.844
+    992      67.789208    0.908700       3     10.879
+    994      69.430127    0.686783       3     10.915
+    996      70.824017    0.672768       3     10.950
+    998      72.070039    0.638207       2     10.984
+   1000      73.373922    0.633766       3     11.019
+   1002      74.553870    0.514494       3     11.055
+   1004      75.661319    0.567230       3     11.090
+   1007      77.017725    0.474366       3     11.139
+   1010      78.270901    0.438264       3     11.184
+   1013      79.446392    0.411095       3     11.233
+   1016      80.611867    0.407593       3     11.278
+   1019      81.787697    0.411214       3     11.327
+   1022      82.968272    0.412874       3     11.369
+   1025      84.152000    0.413976       3     11.416
+   1028      85.277070    0.393462       3     11.459
+   1031      86.309690    0.361131       3     11.506
+   1034      87.311330    0.350296       3     11.549
+   1037      88.452162    0.398975       3     11.596
+
+ at   88.411701 s, the trip    1 signal crossed setpoint s2 =  8.731500E+02 *           
+ at   88.452162 s, the trip    1 signal is  8.733195E+02 *           
+
+ at   88.452162 s, trip    1 is reset from  0 to  1 with a set status of on-forward     
+
+ *hout*   time-step calculation back up at step 1037 iteration  4
+          due to velocity reversal at xr - interface of (i= 1, j= 1, k=22) in component 10
+
+ *hout*   time-step calculation back up at step 1037 iteration  4
+          due to velocity reversal at xr - interface of (i= 1, j= 1, k=22) in component 10
+
+ *trans*  backup forced in post by component      10 at time step    1037
+          i =    3, j =    1, k =   65 (iVol =  210)
+
+ restart dump generated at problem time    88.504528 s after    1038 time steps
+
+ time-step    problem    time-step   outer-it.    cpu
+   number     time (s)    size (s)    number    time (s)
+   1038      88.504528    0.052365       5     11.693
+
+                             end of problem
+
+ computative timing statistics
+ cpu time is 1.1717E+01 s

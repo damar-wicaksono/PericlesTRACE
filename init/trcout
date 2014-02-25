@@ -26,7 +26,7 @@ TRACE Version 5.0p3
      numtcr =          1,      ieos =          0,     inopt =          1,      nmat =          2,      id2o =          0
  number of title cards is: 1
  PERICLES                                                                        
- executed on  02/24/14 at  204840.488
+ executed on  02/25/14 at  110714.342
 
  si units of the internally defined units-name labels are
    lunounit -              luvapgen kg/m3/s        luthcond w/m/k          lurtmsq  1/k2           luthcdk2 w/m/k3      
@@ -25710,10 +25710,10 @@ component number      62,      type = power     ,        id =          0,    cti
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 4.279360E-01 s
+    cpu execution time of this run is 4.499320E-01 s
 
  total time steps since time 0.0 s is 0
-   total cpu time since time 0.0 s is 4.279360E-01 s
+   total cpu time since time 0.0 s is 4.499320E-01 s
 
  ************************************* signal-variable values at time    0.00000 s *************************************
 
@@ -34750,10 +34750,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.281590E+00 s
+    cpu execution time of this run is 1.079336E+01 s
 
  total time steps since time 0.0 s is 883
-   total cpu time since time 0.0 s is 9.281590E+00 s
+   total cpu time since time 0.0 s is 1.079336E+01 s
 
 TRACE Short Edit
 
@@ -34778,10 +34778,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.422568E+00 s
+    cpu execution time of this run is 1.095533E+01 s
 
  total time steps since time 0.0 s is 897
-   total cpu time since time 0.0 s is 9.422568E+00 s
+   total cpu time since time 0.0 s is 1.095533E+01 s
       num     time  dtime     power     keff    nstep      delt
                s      s       w         -        -        s
        60    2.352   2.45 3.466E+05 1.000000      900 1.176E-01
@@ -34811,10 +34811,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.515554E+00 s
+    cpu execution time of this run is 1.106132E+01 s
 
  total time steps since time 0.0 s is 906
-   total cpu time since time 0.0 s is 9.515554E+00 s
+   total cpu time since time 0.0 s is 1.106132E+01 s
 
 TRACE Short Edit
 
@@ -34839,10 +34839,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.586543E+00 s
+    cpu execution time of this run is 1.114330E+01 s
 
  total time steps since time 0.0 s is 912
-   total cpu time since time 0.0 s is 9.586543E+00 s
+   total cpu time since time 0.0 s is 1.114330E+01 s
 
 TRACE Short Edit
 
@@ -34867,10 +34867,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.646534E+00 s
+    cpu execution time of this run is 1.121329E+01 s
 
  total time steps since time 0.0 s is 917
-   total cpu time since time 0.0 s is 9.646534E+00 s
+   total cpu time since time 0.0 s is 1.121329E+01 s
 
 TRACE Short Edit
 
@@ -34895,10 +34895,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.693527E+00 s
+    cpu execution time of this run is 1.127029E+01 s
 
  total time steps since time 0.0 s is 921
-   total cpu time since time 0.0 s is 9.693527E+00 s
+   total cpu time since time 0.0 s is 1.127029E+01 s
 
 TRACE Short Edit
 
@@ -34923,10 +34923,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.729521E+00 s
+    cpu execution time of this run is 1.131128E+01 s
 
  total time steps since time 0.0 s is 924
-   total cpu time since time 0.0 s is 9.729521E+00 s
+   total cpu time since time 0.0 s is 1.131128E+01 s
 
 TRACE Short Edit
 
@@ -34951,10 +34951,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.765516E+00 s
+    cpu execution time of this run is 1.135427E+01 s
 
  total time steps since time 0.0 s is 927
-   total cpu time since time 0.0 s is 9.765516E+00 s
+   total cpu time since time 0.0 s is 1.135427E+01 s
 
 TRACE Short Edit
 
@@ -34979,10 +34979,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.801511E+00 s
+    cpu execution time of this run is 1.139527E+01 s
 
  total time steps since time 0.0 s is 930
-   total cpu time since time 0.0 s is 9.801511E+00 s
+   total cpu time since time 0.0 s is 1.139527E+01 s
 
 TRACE Short Edit
 
@@ -35007,10 +35007,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.825507E+00 s
+    cpu execution time of this run is 1.142326E+01 s
 
  total time steps since time 0.0 s is 932
-   total cpu time since time 0.0 s is 9.825507E+00 s
+   total cpu time since time 0.0 s is 1.142326E+01 s
 
 TRACE Short Edit
 
@@ -35035,10 +35035,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.850503E+00 s
+    cpu execution time of this run is 1.145226E+01 s
 
  total time steps since time 0.0 s is 934
-   total cpu time since time 0.0 s is 9.850503E+00 s
+   total cpu time since time 0.0 s is 1.145226E+01 s
 
 TRACE Short Edit
 
@@ -35063,10 +35063,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.875499E+00 s
+    cpu execution time of this run is 1.148025E+01 s
 
  total time steps since time 0.0 s is 936
-   total cpu time since time 0.0 s is 9.875499E+00 s
+   total cpu time since time 0.0 s is 1.148025E+01 s
 
 TRACE Short Edit
 
@@ -35091,10 +35091,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.899496E+00 s
+    cpu execution time of this run is 1.150925E+01 s
 
  total time steps since time 0.0 s is 938
-   total cpu time since time 0.0 s is 9.899496E+00 s
+   total cpu time since time 0.0 s is 1.150925E+01 s
 
 TRACE Short Edit
 
@@ -35119,10 +35119,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.924492E+00 s
+    cpu execution time of this run is 1.153725E+01 s
 
  total time steps since time 0.0 s is 940
-   total cpu time since time 0.0 s is 9.924492E+00 s
+   total cpu time since time 0.0 s is 1.153725E+01 s
 
 TRACE Short Edit
 
@@ -35147,10 +35147,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.949489E+00 s
+    cpu execution time of this run is 1.156624E+01 s
 
  total time steps since time 0.0 s is 942
-   total cpu time since time 0.0 s is 9.949489E+00 s
+   total cpu time since time 0.0 s is 1.156624E+01 s
 
 TRACE Short Edit
 
@@ -35175,10 +35175,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.973484E+00 s
+    cpu execution time of this run is 1.159424E+01 s
 
  total time steps since time 0.0 s is 944
-   total cpu time since time 0.0 s is 9.973484E+00 s
+   total cpu time since time 0.0 s is 1.159424E+01 s
 
 TRACE Short Edit
 
@@ -35203,10 +35203,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.985483E+00 s
+    cpu execution time of this run is 1.160923E+01 s
 
  total time steps since time 0.0 s is 945
-   total cpu time since time 0.0 s is 9.985483E+00 s
+   total cpu time since time 0.0 s is 1.160923E+01 s
 
 TRACE Short Edit
 
@@ -35231,10 +35231,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 9.998481E+00 s
+    cpu execution time of this run is 1.162323E+01 s
 
  total time steps since time 0.0 s is 946
-   total cpu time since time 0.0 s is 9.998481E+00 s
+   total cpu time since time 0.0 s is 1.162323E+01 s
 
 TRACE Short Edit
 
@@ -35259,10 +35259,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.001048E+01 s
+    cpu execution time of this run is 1.163723E+01 s
 
  total time steps since time 0.0 s is 947
-   total cpu time since time 0.0 s is 1.001048E+01 s
+   total cpu time since time 0.0 s is 1.163723E+01 s
 
 TRACE Short Edit
 
@@ -35287,10 +35287,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.002248E+01 s
+    cpu execution time of this run is 1.165123E+01 s
 
  total time steps since time 0.0 s is 948
-   total cpu time since time 0.0 s is 1.002248E+01 s
+   total cpu time since time 0.0 s is 1.165123E+01 s
 
 TRACE Short Edit
 
@@ -35315,10 +35315,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.003547E+01 s
+    cpu execution time of this run is 1.166623E+01 s
 
  total time steps since time 0.0 s is 949
-   total cpu time since time 0.0 s is 1.003547E+01 s
+   total cpu time since time 0.0 s is 1.166623E+01 s
 
 TRACE Short Edit
 
@@ -35343,10 +35343,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.004747E+01 s
+    cpu execution time of this run is 1.168022E+01 s
 
  total time steps since time 0.0 s is 950
-   total cpu time since time 0.0 s is 1.004747E+01 s
+   total cpu time since time 0.0 s is 1.168022E+01 s
 
 TRACE Short Edit
 
@@ -35371,10 +35371,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.005947E+01 s
+    cpu execution time of this run is 1.169422E+01 s
 
  total time steps since time 0.0 s is 951
-   total cpu time since time 0.0 s is 1.005947E+01 s
+   total cpu time since time 0.0 s is 1.169422E+01 s
 
 TRACE Short Edit
 
@@ -35399,10 +35399,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.007247E+01 s
+    cpu execution time of this run is 1.170922E+01 s
 
  total time steps since time 0.0 s is 952
-   total cpu time since time 0.0 s is 1.007247E+01 s
+   total cpu time since time 0.0 s is 1.170922E+01 s
 
 TRACE Short Edit
 
@@ -35427,10 +35427,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.008447E+01 s
+    cpu execution time of this run is 1.172322E+01 s
 
  total time steps since time 0.0 s is 953
-   total cpu time since time 0.0 s is 1.008447E+01 s
+   total cpu time since time 0.0 s is 1.172322E+01 s
 
 TRACE Short Edit
 
@@ -35455,10 +35455,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.009647E+01 s
+    cpu execution time of this run is 1.173721E+01 s
 
  total time steps since time 0.0 s is 954
-   total cpu time since time 0.0 s is 1.009647E+01 s
+   total cpu time since time 0.0 s is 1.173721E+01 s
 
 TRACE Short Edit
 
@@ -35483,10 +35483,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.010946E+01 s
+    cpu execution time of this run is 1.175121E+01 s
 
  total time steps since time 0.0 s is 955
-   total cpu time since time 0.0 s is 1.010946E+01 s
+   total cpu time since time 0.0 s is 1.175121E+01 s
 
 TRACE Short Edit
 
@@ -35511,10 +35511,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.012146E+01 s
+    cpu execution time of this run is 1.176621E+01 s
 
  total time steps since time 0.0 s is 956
-   total cpu time since time 0.0 s is 1.012146E+01 s
+   total cpu time since time 0.0 s is 1.176621E+01 s
 
 TRACE Short Edit
 
@@ -35539,10 +35539,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.013346E+01 s
+    cpu execution time of this run is 1.178021E+01 s
 
  total time steps since time 0.0 s is 957
-   total cpu time since time 0.0 s is 1.013346E+01 s
+   total cpu time since time 0.0 s is 1.178021E+01 s
 
 TRACE Short Edit
 
@@ -35567,10 +35567,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.014646E+01 s
+    cpu execution time of this run is 1.179421E+01 s
 
  total time steps since time 0.0 s is 958
-   total cpu time since time 0.0 s is 1.014646E+01 s
+   total cpu time since time 0.0 s is 1.179421E+01 s
 
 TRACE Short Edit
 
@@ -35595,10 +35595,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.015846E+01 s
+    cpu execution time of this run is 1.180820E+01 s
 
  total time steps since time 0.0 s is 959
-   total cpu time since time 0.0 s is 1.015846E+01 s
+   total cpu time since time 0.0 s is 1.180820E+01 s
 
 TRACE Short Edit
 
@@ -35623,10 +35623,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.017045E+01 s
+    cpu execution time of this run is 1.182320E+01 s
 
  total time steps since time 0.0 s is 960
-   total cpu time since time 0.0 s is 1.017045E+01 s
+   total cpu time since time 0.0 s is 1.182320E+01 s
 
 TRACE Short Edit
 
@@ -35651,10 +35651,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.018345E+01 s
+    cpu execution time of this run is 1.183720E+01 s
 
  total time steps since time 0.0 s is 961
-   total cpu time since time 0.0 s is 1.018345E+01 s
+   total cpu time since time 0.0 s is 1.183720E+01 s
 
 TRACE Short Edit
 
@@ -35679,10 +35679,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.019545E+01 s
+    cpu execution time of this run is 1.185120E+01 s
 
  total time steps since time 0.0 s is 962
-   total cpu time since time 0.0 s is 1.019545E+01 s
+   total cpu time since time 0.0 s is 1.185120E+01 s
 
 TRACE Short Edit
 
@@ -35707,10 +35707,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.020745E+01 s
+    cpu execution time of this run is 1.186620E+01 s
 
  total time steps since time 0.0 s is 963
-   total cpu time since time 0.0 s is 1.020745E+01 s
+   total cpu time since time 0.0 s is 1.186620E+01 s
 
 TRACE Short Edit
 
@@ -35735,10 +35735,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.022045E+01 s
+    cpu execution time of this run is 1.188019E+01 s
 
  total time steps since time 0.0 s is 964
-   total cpu time since time 0.0 s is 1.022045E+01 s
+   total cpu time since time 0.0 s is 1.188019E+01 s
 
 TRACE Short Edit
 
@@ -35763,10 +35763,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.023244E+01 s
+    cpu execution time of this run is 1.189419E+01 s
 
  total time steps since time 0.0 s is 965
-   total cpu time since time 0.0 s is 1.023244E+01 s
+   total cpu time since time 0.0 s is 1.189419E+01 s
 
 TRACE Short Edit
 
@@ -35791,10 +35791,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.024444E+01 s
+    cpu execution time of this run is 1.190819E+01 s
 
  total time steps since time 0.0 s is 966
-   total cpu time since time 0.0 s is 1.024444E+01 s
+   total cpu time since time 0.0 s is 1.190819E+01 s
 
 TRACE Short Edit
 
@@ -35819,10 +35819,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.025744E+01 s
+    cpu execution time of this run is 1.192319E+01 s
 
  total time steps since time 0.0 s is 967
-   total cpu time since time 0.0 s is 1.025744E+01 s
+   total cpu time since time 0.0 s is 1.192319E+01 s
 
 TRACE Short Edit
 
@@ -35847,10 +35847,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.026944E+01 s
+    cpu execution time of this run is 1.193719E+01 s
 
  total time steps since time 0.0 s is 968
-   total cpu time since time 0.0 s is 1.026944E+01 s
+   total cpu time since time 0.0 s is 1.193719E+01 s
 
 TRACE Short Edit
 
@@ -35875,10 +35875,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.028144E+01 s
+    cpu execution time of this run is 1.195118E+01 s
 
  total time steps since time 0.0 s is 969
-   total cpu time since time 0.0 s is 1.028144E+01 s
+   total cpu time since time 0.0 s is 1.195118E+01 s
 
 TRACE Short Edit
 
@@ -35903,10 +35903,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.029444E+01 s
+    cpu execution time of this run is 1.196518E+01 s
 
  total time steps since time 0.0 s is 970
-   total cpu time since time 0.0 s is 1.029444E+01 s
+   total cpu time since time 0.0 s is 1.196518E+01 s
 
 TRACE Short Edit
 
@@ -35931,10 +35931,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.030643E+01 s
+    cpu execution time of this run is 1.197918E+01 s
 
  total time steps since time 0.0 s is 971
-   total cpu time since time 0.0 s is 1.030643E+01 s
+   total cpu time since time 0.0 s is 1.197918E+01 s
 
 TRACE Short Edit
 
@@ -35959,10 +35959,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.031843E+01 s
+    cpu execution time of this run is 1.199418E+01 s
 
  total time steps since time 0.0 s is 972
-   total cpu time since time 0.0 s is 1.031843E+01 s
+   total cpu time since time 0.0 s is 1.199418E+01 s
 
 TRACE Short Edit
 
@@ -35987,10 +35987,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.033143E+01 s
+    cpu execution time of this run is 1.200817E+01 s
 
  total time steps since time 0.0 s is 973
-   total cpu time since time 0.0 s is 1.033143E+01 s
+   total cpu time since time 0.0 s is 1.200817E+01 s
 
 TRACE Short Edit
 
@@ -36015,10 +36015,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.034343E+01 s
+    cpu execution time of this run is 1.202217E+01 s
 
  total time steps since time 0.0 s is 974
-   total cpu time since time 0.0 s is 1.034343E+01 s
+   total cpu time since time 0.0 s is 1.202217E+01 s
 
 TRACE Short Edit
 
@@ -36043,10 +36043,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.035543E+01 s
+    cpu execution time of this run is 1.203617E+01 s
 
  total time steps since time 0.0 s is 975
-   total cpu time since time 0.0 s is 1.035543E+01 s
+   total cpu time since time 0.0 s is 1.203617E+01 s
 
 TRACE Short Edit
 
@@ -36071,10 +36071,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.036742E+01 s
+    cpu execution time of this run is 1.205017E+01 s
 
  total time steps since time 0.0 s is 976
-   total cpu time since time 0.0 s is 1.036742E+01 s
+   total cpu time since time 0.0 s is 1.205017E+01 s
 
 TRACE Short Edit
 
@@ -36099,10 +36099,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.038042E+01 s
+    cpu execution time of this run is 1.206417E+01 s
 
  total time steps since time 0.0 s is 977
-   total cpu time since time 0.0 s is 1.038042E+01 s
+   total cpu time since time 0.0 s is 1.206417E+01 s
 
 TRACE Short Edit
 
@@ -36127,10 +36127,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.039242E+01 s
+    cpu execution time of this run is 1.207916E+01 s
 
  total time steps since time 0.0 s is 978
-   total cpu time since time 0.0 s is 1.039242E+01 s
+   total cpu time since time 0.0 s is 1.207916E+01 s
 
 TRACE Short Edit
 
@@ -36155,10 +36155,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.040442E+01 s
+    cpu execution time of this run is 1.209316E+01 s
 
  total time steps since time 0.0 s is 979
-   total cpu time since time 0.0 s is 1.040442E+01 s
+   total cpu time since time 0.0 s is 1.209316E+01 s
 
 TRACE Short Edit
 
@@ -36183,10 +36183,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.041742E+01 s
+    cpu execution time of this run is 1.210716E+01 s
 
  total time steps since time 0.0 s is 980
-   total cpu time since time 0.0 s is 1.041742E+01 s
+   total cpu time since time 0.0 s is 1.210716E+01 s
 
 TRACE Short Edit
 
@@ -36211,10 +36211,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.042941E+01 s
+    cpu execution time of this run is 1.212216E+01 s
 
  total time steps since time 0.0 s is 981
-   total cpu time since time 0.0 s is 1.042941E+01 s
+   total cpu time since time 0.0 s is 1.212216E+01 s
 
 TRACE Short Edit
 
@@ -36239,10 +36239,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.044141E+01 s
+    cpu execution time of this run is 1.213615E+01 s
 
  total time steps since time 0.0 s is 982
-   total cpu time since time 0.0 s is 1.044141E+01 s
+   total cpu time since time 0.0 s is 1.213615E+01 s
 
 TRACE Short Edit
 
@@ -36267,10 +36267,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.045441E+01 s
+    cpu execution time of this run is 1.215115E+01 s
 
  total time steps since time 0.0 s is 983
-   total cpu time since time 0.0 s is 1.045441E+01 s
+   total cpu time since time 0.0 s is 1.215115E+01 s
 
 TRACE Short Edit
 
@@ -36295,10 +36295,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.046641E+01 s
+    cpu execution time of this run is 1.216515E+01 s
 
  total time steps since time 0.0 s is 984
-   total cpu time since time 0.0 s is 1.046641E+01 s
+   total cpu time since time 0.0 s is 1.216515E+01 s
 
 TRACE Short Edit
 
@@ -36323,10 +36323,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.047841E+01 s
+    cpu execution time of this run is 1.218015E+01 s
 
  total time steps since time 0.0 s is 985
-   total cpu time since time 0.0 s is 1.047841E+01 s
+   total cpu time since time 0.0 s is 1.218015E+01 s
 
 TRACE Short Edit
 
@@ -36351,10 +36351,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              0
 
-    cpu execution time of this run is 1.049141E+01 s
+    cpu execution time of this run is 1.219415E+01 s
 
  total time steps since time 0.0 s is 986
-   total cpu time since time 0.0 s is 1.049141E+01 s
+   total cpu time since time 0.0 s is 1.219415E+01 s
 
  at   62.091416 s, the trip    1 signal crossed setpoint s2 =  8.731500E+02 *           
  at   62.124649 s, the trip    1 signal is  8.733484E+02 *           
@@ -36399,10 +36399,10 @@ TRACE Short Edit
       dtlmx          dtvmx          dprmx          dtsms          dtrmx         delt/2
         0              0              0              0              0              2
 
-    cpu execution time of this run is 1.088435E+01 s
+    cpu execution time of this run is 1.264608E+01 s
 
  total time steps since time 0.0 s is 1011
-   total cpu time since time 0.0 s is 1.088435E+01 s
+   total cpu time since time 0.0 s is 1.264608E+01 s
 
  ************************************* signal-variable values at time   62.48739 s *************************************
 
@@ -45454,4 +45454,4 @@ TRACE Short Edit
                              end of problem
 
  computative timing statistics
- cpu time is 1.0908E+01 s
+ cpu time is 1.2672E+01 s

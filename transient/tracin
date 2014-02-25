@@ -8039,7 +8039,7 @@ end
 *        dtmin         dtmax          tend         rtwfp
        1.0E-20           1.0         350.0          10.0
 *        edint         gfint        dmpint        sedint
-         100.0          0.25         100.0           1.0
+         100.0           0.1         100.0           1.0
 *
 *      endflag
           -1.0

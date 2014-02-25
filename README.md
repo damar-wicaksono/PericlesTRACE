@@ -21,6 +21,7 @@ Test No. RE0062, Flat radial peaking profile
 * /medFile    : Model Editor files
 * /init       : Initialization Run
 * /transient  : Transient Run
+* /output     : relevant output, in csv, post-processed from trcxtv
 
 ## Initialization
 
@@ -30,4 +31,9 @@ specified Initial Clad Temperature.
 
 ## Transient
 
-Transient run for RE0062 was carried out for 350 [s]
+Transient run for RE0062 was carried out for 350 [s].
+The trcxtv is not to be stored in the repository due to its size. 
+
+## Output
+
+Post-processed output in csv format.

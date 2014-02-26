@@ -48,9 +48,9 @@ TC_grid_CA2 = ['rftn-401A08R29', 'rftn-401A44R29', 'rftn-401A73R29',
                'rftn-401A108R29', 'rftn-401A163R29', 'rftn-401A229R29',
                'rftn-401A273R29', 'rftn-401A309R29']
 
-TC_grid_CA1 = 'TC_grid_CA1.csv'
-TC_grid_HA = 'TC_grid_HA.csv'
-TC_grid_CA2 = 'TC_grid_CA2.csv'
+TC_grid_CA1_csv = 'TC_grid_CA1.csv'
+TC_grid_HA_csv = 'TC_grid_HA.csv'
+TC_grid_CA2_csv = 'TC_grid_CA2.csv'
 
 # Liquid temperature with thermocouple measurement (not really measured the
 # liquid temperature though)

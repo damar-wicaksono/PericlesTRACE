@@ -49,8 +49,65 @@ def main():
    trcxtv = '../transient/trcxtv'
 
    # Convert xtv to csv for the selected variables
-   # Clad temperature
-   xtv_to_csv(aptplot, trcxtv, traceVars.temp_clad, traceVars.temp_clad_csv)
+   # Clad temperature, Cold Assembly 1
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_clad_CA1, \
+              traceVars.TC_clad_CA1_csv)
+   # Clad temperature, Hot Assembly 
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_clad_HA, \
+              traceVars.TC_clad_HA_csv)
+   # Clad temperature, Cold Assembly 2
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_clad_CA2, \
+              traceVars.TC_clad_CA2_csv)
+
+   # Clad temperature, Spacer Grid, Cold Assembly 1
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_grid_CA1, \
+              traceVars.TC_grid_CA1_csv)
+   # Clad temperature, Spacer Grid, Hot Assembly 
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_grid_HA, \
+              traceVars.TC_grid_HA_csv)
+   # Clad temperature, Spacer Grid, Cold Assembly 2
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_grid_CA2, \
+              traceVars.TC_grid_CA2_csv)
+
+   # Liquid temperature, Cold Assembly 1
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_liquid_CA1, \
+              traceVars.TC_liquid_CA1_csv)
+   # Liquid temperature, Hot Assembly 
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_liquid_HA, \
+              traceVars.TC_liquid_HA_csv)
+   # Liquid temperature, Cold Assembly 2
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_liquid_CA2, \
+              traceVars.TC_liquid_CA2_csv)
+
+   # Vapor temperature, Cold Assembly 1
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_vapor_CA1, \
+              traceVars.TC_vapor_CA1_csv)
+   # Liquid temperature, Hot Assembly 
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_vapor_HA, \
+              traceVars.TC_vapor_HA_csv)
+   # Liquid temperature, Cold Assembly 2
+   xtv_to_csv(aptplot, trcxtv, traceVars.TC_vapor_CA2, \
+              traceVars.TC_vapor_CA2_csv)
+
+   # Void fraction, Cold Assembly 1
+   xtv_to_csv(aptplot, trcxtv, traceVars.alpha_CA1, \
+              traceVars.alpha_CA1_csv)
+   # Void fraction, Hot Assembly 
+   xtv_to_csv(aptplot, trcxtv, traceVars.alpha_HA, \
+              traceVars.alpha_HA_csv)
+   # Void fraction, Cold Assembly 2
+   xtv_to_csv(aptplot, trcxtv, traceVars.alpha_CA2, \
+              traceVars.alpha_CA2_csv)
+
+   # Pressure, Cold Assembly 1
+   xtv_to_csv(aptplot, trcxtv, traceVars.pressure_CA1, \
+              traceVars.pressure_CA1_csv)
+   # Pressure, Hot Assembly 
+   xtv_to_csv(aptplot, trcxtv, traceVars.pressure_HA, \
+              traceVars.pressure_HA_csv)
+   # Pressure, Cold Assembly 2
+   xtv_to_csv(aptplot, trcxtv, traceVars.pressure_CA2, \
+              traceVars.pressure_CA2_csv)
 
 if __name__ == "__main__":
    main()

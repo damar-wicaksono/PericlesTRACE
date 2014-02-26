@@ -49,6 +49,7 @@ def main():
    trcxtv = '../transient/trcxtv'
 
    # Convert xtv to csv for the selected variables
+   # Clad temperature
    xtv_to_csv(aptplot, trcxtv, traceVars.temp_clad, traceVars.temp_clad_csv)
 
 if __name__ == "__main__":
